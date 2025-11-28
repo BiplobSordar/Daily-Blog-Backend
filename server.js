@@ -12,7 +12,7 @@ connectDB();
 
 const app = express();
 const allowedOrigins = [
-  "https://daily-blog-4dvrvgrsi-biplob-sordars-projects.vercel.app", 
+  "https://daily-blog-liard.vercel.app", 
   "http://localhost:3000",
 ];
 
